@@ -13,3 +13,6 @@
     - clan_membership.clan_acc = clan.clan_acc
 
     - These columns form the foreign keys and primary keys relationships helping to connect the respective tables.
+
+3.  Oryza granulata has longest DNA sequence and length of 80745213.
+
