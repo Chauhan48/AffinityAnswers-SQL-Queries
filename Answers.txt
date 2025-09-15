@@ -1,2 +1,15 @@
 1.  29 types of tigers can be found in the taxonomy table
     ncbi_id of Sumatran tiger is 9695
+
+2.  Typical Join Examples
+    - full_region.rfam_acc = family.rfam_acc
+
+    - full_region.rfamseq_acc = rfamseq.rfamseq_acc
+
+    - rfamseq.ncbi_id = taxonomy.ncbi_id
+
+    - clan_membership.rfam_acc = family.rfam_acc
+
+    - clan_membership.clan_acc = clan.clan_acc
+
+    - These columns form the foreign keys and primary keys relationships helping to connect the respective tables.
