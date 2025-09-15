@@ -16,3 +16,21 @@
 
 3.  Oryza granulata has longest DNA sequence and length of 80745213.
 
+4. 
+  |family_acc | family_name                               |  max_length |
+  |-----------|-------------------------------------------|-------------|  
+  |RF03160    | type-P1 twister ribozyme                  |  836,514,780|
+  |RF00361    | Small nucleolar RNA Z119                  |  836,514,780|
+  |RF03926    | MIR1435 microRNA precursor family         |  836,514,780|
+  |RF00321    | Small nucleolar RNA Z247                  |  836,514,780|
+  |RF00337    | Small nucleolar RNA Z112                  |  836,514,780|
+  |RF00445    | mir-399 microRNA precursor family         |  836,514,780|
+  |RF01208    | Small nucleolar RNA snoR99                |  836,514,780|
+  |RF04251    | MIR5070 microRNA precursor family         |  836,514,780|
+  |RF01848    | ACEA small nucleolar RNA U3               |  836,514,780|
+  |RF01856    | Protozoan signal recognition particle RNA |  836,514,780|
+  |RF01911    | microRNA MIR2118                          |  836,514,780|
+  |RF00145    | Small nucleolar RNA Z105                  |  830,829,764|
+  |RF01178    | Small nucleolar RNA snoR77Y               |  801,256,715|
+  |RF01285    | Small nucleolar RNA U31b                  |  801,256,715|
+  |RF00330    | Small nucleolar RNA Z43                   |  801,256,715|
