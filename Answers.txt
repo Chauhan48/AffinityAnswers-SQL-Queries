@@ -1,0 +1,2 @@
+1.  29 types of tigers can be found in the taxonomy table
+    ncbi_id of Sumatran tiger is 9695
